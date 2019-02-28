@@ -9,3 +9,11 @@ node server.js
 // Now open your browser and visit: localhost:3000
 ```
 ![gif](https://github.com/bmorelli25/simple-nodejs-weather-app/blob/master/giphy.gif?raw=true 'website gif')
+
+Run test
+
+Еnter your key in the const apiKey @ server.js
+
+```
+npm test
+```
